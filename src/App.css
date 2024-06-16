@@ -1,0 +1,17 @@
+.user {
+    text-align: right;
+    color: blue;
+  }
+  
+  .ai {
+    text-align: left;
+    color: green;
+  }
+  
+  img {
+    max-width: 200px;
+    height: auto;
+  }
+  
+  /* Add more styles as needed */
+  
