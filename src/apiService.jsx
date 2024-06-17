@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API_KEY = 'AIzaSyBZnXEzYt4zAv8I623uZ9OESjmbrQ6i8pI';
-const BASE_URL = 'https://gemini.googleapis.com/v1/chat';
+const BASE_URL = 'https://gemini.googleapis.com/v1/chat/';
 
 const api = axios.create({
   baseURL: BASE_URL,
